@@ -149,7 +149,7 @@ Ouvre une issue ou une PR avec tes idées.
 
 ## Auteurs et crédits
 
-Idée, conception, dev : Ton nom ou pseudo
+Idée, conception, dev : Etienne KIBONGANI LOMBO
 
 Basé sur Streamlit et PyPDF2
 
@@ -159,6 +159,6 @@ Projet sous licence MIT — libre à l’usage, à la modification et à la redi
 
 ```bash 
 Besoin d’aide ?
-Contact : ton.email@email.com
+Contact : contact@etiennekibongani.com
 
 ```
