@@ -98,7 +98,7 @@ streamlit run streamlit_app.py
 
 Ouvre ```http://localhost:8501``` dans ton navigateur.
 
-## 🖥️ Utilisation
+## Utilisation
 
 1. Glisse-dépose ou sélectionne jusqu’à 150 fichiers PDF (poids total ≤ 1 Go)
 
@@ -114,7 +114,7 @@ Ouvre ```http://localhost:8501``` dans ton navigateur.
 
 7. Clique sur Réinitialiser pour recommencer
 
-## 🧠 Tri automatique et formats reconnus
+## Tri automatique et formats reconnus
 
 Le projet essaie de détecter la date dans les noms de fichiers :
 
@@ -124,7 +124,7 @@ S’il ne trouve pas de date, il trie par nom.
 
 Le tri est extensible à d’autres patterns : personnalisez extract_date() dans streamlit_app.py !
 
-## 🚫 Limites connues
+## Limites connues
 
 Upload total limité à 1 Go (Streamlit)
 
